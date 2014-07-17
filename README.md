@@ -1,4 +1,4 @@
-# Formalizing the CONTRIBUTING file.
+# Formalizing the CONTRIBUTING notice
 
 Many developers in the open source community are working towards more ethical forms of governance, conduct, and culture. To date most of this work has been in blogs, conference talks, and in conversation.
 
